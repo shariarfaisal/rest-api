@@ -1,0 +1,6 @@
+{
+  "babelrc":[
+    "babel-preset-env"
+  ],
+  "plugins": ["transform-object-rest-spread"]
+}
